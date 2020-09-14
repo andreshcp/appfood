@@ -5,15 +5,6 @@ import { Grid, Card, CardActionArea,CardActions,CardContent,CardMedia,Button,Typ
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
 import './ListMains.css';
 
-interface MainsProps {
-    mainSelected: string[];
-}
-interface Main {
-    main: string,
-    price: string,
-    image: string
-}
-
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     button: {
