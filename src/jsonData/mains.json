@@ -1,0 +1,77 @@
+{
+  "items" : {
+    "desserts" : {
+      "01" : {
+        "dessert" : "Strawberries and Cream",
+        "price" : "7.2",
+        "time" : 10000
+      },
+      "02" : {
+        "dessert" : "Carrot Cake",
+        "price" : "7.5",
+        "time" : 15000
+      },
+      "03" : {
+        "dessert" : "Chocolate Cake",
+        "price" : "6.8",
+        "time" : 15000
+      }
+    },
+    "drinks" : {
+      "01" : {
+        "drink" : "Gin and Tonic",
+        "price" : "9.05",
+        "time" : 9000
+      },
+      "02" : {
+        "drink" : "White Russian",
+        "price" : "9.2",
+        "time" : 11000
+      },
+      "03" : {
+        "drink" : "Mojito",
+        "price" : "8",
+        "time" : 8000
+      },
+      "04" : {
+        "drink" : "Old Fashioned",
+        "price" : "9",
+        "time" : 12000
+      }
+    },
+    "mains" : {
+      "01" : {
+        "food" : "Avo on toast",
+        "price" : "8.5",
+        "time" : 18000
+      },
+      "02" : {
+        "food" : "Pesto pasta with pine nuts and mozarella",
+        "price" : "9.5",
+        "time" : 19000
+      },
+      "03" : {
+        "food" : "Roasted pork belly with kimchi and soy sauce glaze",
+        "price" : "11",
+        "time" : 19000
+      },
+      "04" : {
+        "food" : "Mac and cheese with crunchy seitan `bacon` (V)",
+        "price" : "10",
+        "time" : 22000
+      }
+    }
+  },
+  "offers" : {
+    "01" : {
+      "description" : "Hot offer! Get 10% off each main and drink combo.",
+      "id" : "01",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/deliqui.appspot.com/o/offer1.jpeg?alt=media&token=bb56a2cc-8e8d-45af-a745-7bf8e4b7a217"
+    },
+    "02" : {
+      "description" : "Hungry Date Offer! Get 2 mains + 2 drinks + 1 dessert for 40.00.",
+      "id" : "01",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/deliqui.appspot.com/o/offer2.jpg?alt=media&token=3da38e85-d33e-48e4-8aee-cf813d73de31"
+    }
+  }
+}
