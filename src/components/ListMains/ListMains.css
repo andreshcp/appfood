@@ -1,0 +1,15 @@
+.griditem {
+    padding: 3%;
+    text-align: -webkit-center;
+    align-items: center;
+    align-self: center;
+    width: 100%;
+  }
+  .carditem {
+      margin-top: 5%;
+      padding: 5%;
+      text-align: center;
+      align-items: center;
+      align-self: center;
+      height: 30%;
+  }
