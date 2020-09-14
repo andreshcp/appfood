@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import {BrowserRouter as Router} from 'react-router-dom';
 import jsonObject from '../../jsonData/mains.json';
 import { Grid, Card, CardActionArea,CardActions,CardContent,CardMedia,Button,Typography } from '@material-ui/core';
 import { makeStyles, createStyles, Theme } from '@material-ui/core/styles';
